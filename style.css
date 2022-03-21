@@ -9,12 +9,22 @@ h1, h3, h4 {
     color: rgb(164, 0, 0);
 }
 
-a, .link, .icon {
+a, .link {
     color: rgb(164, 0, 0);
 }
 
 a:hover {
     color: rgb(82, 0, 0);
+}
+
+#personals {
+    background-image: url(./assets/IMG_0653.jpg);
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
 }
 
 #header {
