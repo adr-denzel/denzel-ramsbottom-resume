@@ -17,16 +17,6 @@ a:hover {
     color: rgb(82, 0, 0);
 }
 
-#personals {
-    background-image: url(./assets/IMG_0653.jpg);
-    margin: 0;
-    padding: 0;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    min-height: 100vh;
-}
-
 #header {
     margin-left: 1rem;
     margin-right: 1rem;
